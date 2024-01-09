@@ -1,2 +1,47 @@
 Mocule 4 =>
-Introduction to javascript...
+
+OVERVIEW: =>
+
+    Introduction to javascript...
+    Datatype in javascript
+        Primitive 
+            Number
+            Boolean
+            String
+        Non-Primitive
+            Objects
+            Array
+    ///Array///
+    Array index
+    Array pop()
+    Array push()
+    Array slice()
+    Array splice()
+    Array join()
+    
+    substring;
+    split ;
+
+    ..........
+
+    while loop
+    Break statement
+    Continue statement
+
+    ..........
+
+    Function in javascript
+
+    Function parameter
+    Function returns
+
+    ..........
+
+    Objects in javascript
+
+    ..........
+
+    Problem solving
+     like => Fibonacci series
+     swap variable;
+    
